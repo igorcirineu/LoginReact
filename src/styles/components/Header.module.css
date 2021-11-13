@@ -1,0 +1,16 @@
+.header{
+  height: 80px;
+  background-color: #008f28;
+  border-bottom: 2px solid #fff;
+}
+
+.header h1{
+  color: #fff;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  padding: 10px 0;
+  
+  font-family: 'Source Code Pro', monospace;
+}
+
